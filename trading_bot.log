@@ -1,0 +1,6 @@
+2026-04-16 13:31:01,505 - INFO - [REQUEST] Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-04-16 13:31:01,946 - ERROR - [API ERROR] APIError(code=-2014): API-key format invalid.
+2026-04-16 13:31:01,947 - INFO - [FALLBACK USED] {'orderId': 'MOCK12345', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'market_price'}
+2026-04-16 13:31:07,459 - INFO - [REQUEST] Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=30000.0
+2026-04-16 13:31:07,661 - ERROR - [API ERROR] APIError(code=-2014): API-key format invalid.
+2026-04-16 13:31:07,661 - INFO - [FALLBACK USED] {'orderId': 'MOCK12345', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 30000.0}

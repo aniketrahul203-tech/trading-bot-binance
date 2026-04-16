@@ -1,0 +1,2 @@
+2026-04-16 12:24:32,260 - INFO - Placing order: BTCUSDT BUY MARKET 0.01 None
+2026-04-16 12:24:32,701 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
